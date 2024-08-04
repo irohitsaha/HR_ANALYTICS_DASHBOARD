@@ -28,9 +28,7 @@ This project focuses on creating an HR analytics dashboard using Power BI to ana
 
 ### Additional Insights
 - **Gender Ratio**: 60% males, 40% females—an opportunity for diversity initiatives.
-- **Marital Status**: Majority of employees are married, influencing work-life balance programs.
-- **Department Headcount**: R&D has the highest headcount.
-
+  
 ## Implementation Process
 ### Steps Taken:
 1. **Data Collection**: Gathered data from internal HR databases.
